@@ -1,5 +1,5 @@
 <?php
-
+//sample comment to test changes
 session_start();
 require "dbconnect.php";
 
